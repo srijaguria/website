@@ -1,0 +1,183 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* .navbar28 */
+#nav28{
+    width: 100%;
+    height: 50px;
+    background-color: purple;
+}
+.navrap28{
+    width: 80%;
+    margin: auto;
+}
+.menu20{
+    float: right;
+    margin-top: 10px;
+    display: inline;
+}
+.menu20 a{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'segoe ui', tahoma, geneva, verdana, sans-serif;
+    padding-right: 15px;
+}
+.menu20  a:hover{
+    background-color: purple;
+}
+/* .navbar29 */
+#nav29{
+    width: 100%;
+    height: 50px;
+}
+.navrap29{
+    width: 80%;
+    margin: auto;
+}
+.logo11 a img{
+    position: absolute; 
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+}
+.menu21{ 
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.menu21  ul li{
+    display: inline;
+}
+.menu21 ul li a{
+    color: rgba(25, 23, 23, 0.796);
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 18px;
+    text-decoration: none;
+}
+.menu21 ul li a:hover{
+    background-color: white;
+    text-decoration: underline;
+}
+/* .navrap38 */
+.navrap38{
+    width: 95%;
+}
+.menu29{ 
+    float: left;
+    margin-top: 50px;
+    margin-left: 1150px;
+}
+.menu29 ul li{
+    display: inline;
+}
+.menu29 ul li a{
+    color: rgba(25, 23, 23, 0.796);
+    text-decoration: none;
+    font-size: 19px;
+    padding-left: 40px;
+}
+/* .navbar30 */
+#nav30{
+    width: 100%;
+    height: 40px;
+    background-color: none;
+}
+.navrap30{
+    width: 90.9%;
+}
+.ban3{
+    margin-top: 75px;
+    background-image: url(../image/storelocator\ banner.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 110%;
+    height: 100vh;
+}
+/* .navbar31 */
+#nav31{
+    width: 40%;
+    height: 5%;
+}
+.navrap31{
+    width: 90.9%;
+}
+.ban4{
+    margin-top: 50.1%;
+    background-image: url(../image/location.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 275%;
+    height: 125vh;
+}
+/* .navbar100 */
+.mid100{
+    width: 20%;
+    height: 10vh;
+}
+.midrap100{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-row-gap: 1%;
+    grid-column-gap: 30px;
+    padding-left: 55%;
+    margin-top: 280px;
+}
+.box100 iframe{
+    width: 270px;
+    height: 200px;
+    margin-top: 20%;
+    background-color: rgba(0,0,0,0.5);
+}
+.box100 h5{
+    margin-top: 10px;
+    color: black;
+    font-size: 17px;
+    margin-left: 10px;
+}
+.box100 p{
+    margin-top: 1px;
+    color: black;
+    margin-left: 60px;
+}
+/* .footer14 */
+.footer14{
+    height: 70vh;
+    background-color: #111010;
+}
+.footrap14{
+    width: 1%;
+    margin-top: 43%;
+    height: 70vh;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+    margin-left: 10%;
+}
+.box11{
+    margin-top: 40px;
+    width: 250px;
+    height: 50vh;
+}
+.box11 h1{
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+}
+.box11 p{
+    margin-top: 15px;
+    color: white;
+    text-align: start;
+    padding: 8px;
+    margin-left: 58px;
+}
+.logo12 img{
+    position: absolute; 
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+}
+
