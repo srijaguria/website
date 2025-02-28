@@ -1,0 +1,166 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* .navbar13 */
+#nav13{
+    width: 100%;
+    height: 50px;
+    background-color: purple;
+}
+.navrap13{
+    width: 80%;
+    margin: auto;
+}
+.menu9 a{
+    float: right;
+    margin-top: 10px;
+    display: inline;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'segoe ui', tahoma, geneva, verdana, sans-serif;
+    padding-right: 15px;
+}
+.menu9  a:hover{
+    background-color: purple;
+}
+/* .navbar14 */
+#nav14{
+    width: 100%;
+    height: 50px;
+}
+.navrap14{
+    width: 80%;
+    margin: auto;
+}
+.logo5 a img{
+    position: absolute; 
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+}
+.menu10{ 
+    position: absolute;
+    float: left;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.menu10  ul li{
+    display: inline;
+}
+.menu10 ul li a{
+    color: rgba(25, 23, 23, 0.796);
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 18px;
+    text-decoration: none;
+}
+.menu10 ul li a:hover{
+    background-color: white;
+    text-decoration: underline;
+}
+/* .navrap41 */
+.navrap41{
+    width: 96%;
+}
+.menu26{ 
+    float: left;
+    margin-top: 50px;
+    margin-left: 1150px;
+}
+.menu26 ul li{
+    display: inline;
+}
+.menu26 ul li a{
+    color: rgba(25, 23, 23, 0.796);
+    text-decoration: none;
+    font-size: 19px;
+    padding-left: 40px;
+}
+/* .navbar15 */
+#nav15{
+    width: 100%;
+    height: 50px;
+}
+.navrap15{
+    width: 80%;
+}
+.menu11{ 
+    position: absolute;
+    margin-top: 90px;
+    color: black;
+    font-size: 50px;
+    margin-left: 11%;
+}
+/* .navbar16 */
+.mid4{
+    width: 20%;
+    height: 10vh;
+}
+.midrap4{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-row-gap: 1px;
+    grid-column-gap: 30px;
+    padding-left: 55%;
+    margin-top: 100px;
+}
+.box6 img{
+    width: 270px;
+    height: 300px;
+    margin-top: 30%;
+    background-color: rgba(0,0,0,0.5);
+}
+.box6 h5{
+    margin-top: 10px;
+    color: black;
+    text-align: center;
+    font-size: 17px;
+    margin-left: 50px;
+}
+.box6 p{
+    margin-top: 1px;
+    color: black;
+    margin-left: 140px;
+}
+/* .footer11 */
+.footer11{
+    height: 70vh;
+    background-color: #111010;
+}
+.footrap11{
+    width: 1%;
+    margin-top: 120%;
+    height: 70vh;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+    margin-left: 10%;
+}
+.box7{
+    margin-top: 40px;
+    width: 250px;
+    height: 50vh;
+}
+.box7 h1{
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+}
+.box7 p{
+    margin-top: 15px;
+    color: white;
+    text-align: start;
+    padding: 8px;
+    margin-left: 58px;
+}
+.logo6 img{
+    position: absolute; 
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+}
+
+
